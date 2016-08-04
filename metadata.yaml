@@ -1,0 +1,33 @@
+_repo: Complete-Project-Gutenberg-Works-of-George-Meredith_4500
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+description: ''
+gutenberg_issued: '2004-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+tableOfContents: 'The Shaving of Shagpat -- The Ordeal of Richard Feverel -- Sandra
+  Belloni -- Rhoda Fleming -- Evan Harrington -- Vittoria -- The Adventures of Harry
+  Richmond -- Beauchamp''s Career -- The Egoist -- The Tragic Comedians -- Diana of
+  the Crossways -- One of Our Conquerors -- Lord Ormont and his Aminta -- The Amazing
+  Marriage -- Celt and Saxon -- Farina -- Case of General Opel -- The Tale of Chloe
+  -- The House on the Beach -- The Gentleman of Fifty -- The Sentimentalists -- Miscellaneous
+  Prose -- An Essay on Comedy -- Poetry: A Reading of Life, and Other Poems -- Poems,
+  Volume 1 -- Poems, Volume 2 -- Poems, Volume 3.'
+title: Complete Project Gutenberg Works of George Meredith
+url: http://www.gutenberg.org/ebooks/4500
